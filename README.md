@@ -1,6 +1,9 @@
 # An Algorithm for Tracking Drifters Dispersion Induced by Wave Turbulence
 # using Optical Cameras
 
+Paper: 
+- https://www.sciencedirect.com/science/article/pii/S0098300420306282?dgcid=rss_sd_all
+
 Year First Available: 2019
 
 Scripts:
