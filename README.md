@@ -1,11 +1,6 @@
 # An Algorithm for Tracking Drifters Dispersion Induced by Wave Turbulence
 # using Optical Cameras
 
-Paper: 
-- https://www.sciencedirect.com/science/article/pii/S0098300420306282?dgcid=rss_sd_all
-
-Year First Available: 2019
-
 Scripts:
 
 1. track_drifter.py - 9.7 kB
@@ -48,7 +43,7 @@ Functions:
 
 Developers:
 
-- Henrique P. P. Pereira (Phone: +55 21 96913-1601)
+- Henrique P. P. Pereira
 - Nelson Violante-Carvalho
 - Ricardo Fabbri
 - Alex Babanin
@@ -58,7 +53,7 @@ Developers:
 Concatct Adress:
 
 Adress: Ocean Engineering Program, Rio de Janeiro Federal University, Brazil
-Telephone: 
+Telephone: + 55 (21) 3938-8813
 
 Hardware required:
 
